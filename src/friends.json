@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/059.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/076.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130.png",
+    "clicked": false
+  }
+]
+
+
+
